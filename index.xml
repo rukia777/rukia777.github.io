@@ -7,8 +7,8 @@
     <generator>Hugo</generator>
     <language>zh-CN</language>
     
-    <managingEditor>xxx@example.com (D-Sketon)</managingEditor>
-    <webMaster>xxx@example.com (D-Sketon)</webMaster>
+    <managingEditor>13241225295@163.com (Rukia777)</managingEditor>
+    <webMaster>13241225295@163.com (Rukia777)</webMaster>
     
     <copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright>
     
@@ -25,14 +25,32 @@
       <title>Hello World</title>
       <link>https://rukia777.github.io/post/hello/</link>
       <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <author>xxx@example.com (D-Sketon)</author>
+      <author>13241225295@163.com (Rukia777)</author>
       <guid>https://rukia777.github.io/post/hello/</guid>
       <description>
-        <![CDATA[<h1>Hello World</h1><p>作者：D-Sketon（xxx@example.com）</p>
+        <![CDATA[<h1>Hello World</h1><p>作者：Rukia777（13241225295@163.com）</p>
         
           <p>💘 博麗 霊夢 💘</p>
         
         <hr><p>本文2023-03-15首发于<a href='https://rukia777.github.io/'>xxxxxxxx</a>，最后修改于2023-03-15</p>]]>
+      </description>
+      
+    </item>
+    
+    
+
+    <item>
+      <title></title>
+      <link>https://rukia777.github.io/post/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+      <author>13241225295@163.com (Rukia777)</author>
+      <guid>https://rukia777.github.io/post/test/</guid>
+      <description>
+        <![CDATA[<h1></h1><p>作者：Rukia777（13241225295@163.com）</p>
+        
+          <p>内容：巴拉巴拉巴拉巴拉巴拉巴拉巴拉巴拉</p>
+        
+        <hr><p>本文0001-01-01首发于<a href='https://rukia777.github.io/'>xxxxxxxx</a>，最后修改于0001-01-01</p>]]>
       </description>
       
     </item>
