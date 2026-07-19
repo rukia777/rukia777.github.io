@@ -1,9 +1,3 @@
-########################################
-# Basic Configuration
-########################################
-
-# main menu navigation
-# for more icon information, please visit https://github.com/D-Sketon/hexo-theme-reimu/issues/30
 menu:
   - name: home
     url: ""
@@ -26,16 +20,16 @@ monthFormat: "2006-01"
 dateFormat: "2006-01-02"
 timeFormat: "2006-01-02 15:04:05"
 
-author: D-Sketon
-email: xxx@example.com
-description: "少女祈祷中..."
+author: Rukia777
+email: 13241225295@163.com
+description: "F·F·H..."
 # subtitle: "少女祈祷中..."
 subtitle:
   typing:
-    enable: false
+    enable: true
     strings:
-      # - Sentence 1
-      # - Sentence 2
+       - F·F·H...
+       - Blog
       # - Sentence 3
       # - Sentence 4
     typeSpeed: 100              # 打字速度（毫秒/字符） 
@@ -47,7 +41,7 @@ subtitle:
     showCursor: true            # 是否显示闪烁的字符
     cursorChar: "|"             # 字符
     smartBackspace: false       # 智能退格，只删除不同的部分
-  text: "少女祈祷中..."        # 当 typing.enable = false 时使用
+  text: "F·F·H..."        # 当 typing.enable = false 时使用
 
 banner: "images/banner.webp"
 # You can also write it in the form of the following url
@@ -120,8 +114,8 @@ sidebar:
     show_common: true # whether to show common sidebar, ignored on mobile devices
 
 social:
-  # email: mailto:xxx@gmail.com
-  # github: https://github.com/yourname
+   email: mailto:13241225295@163.com
+   github: https://github.com/rukia777
   # google: https://plus.google.com/yourname
   # twitter: https://twitter.com/yourname
   # bluesky: https://bsky.app/profile/yourname
@@ -195,8 +189,8 @@ sort_order:
 
 # Pagination
 paginate:
-  archive: # Number of posts per page in archive and taxonomy pages
-  post: # Number of posts per page in home and other list pages
+  archive: 15 # Number of posts per page in archive and taxonomy pages
+  post: 10 # Number of posts per page in home and other list pages
 
 ########################################
 # CSS
@@ -289,11 +283,11 @@ code_block:
 # Clipboard configuration
 clipboard:
   success: 
-    en: Copy successfully (*^▽^*)
-    zh-CN: 复制成功 (*^▽^*)
-    zh-TW: 複製成功 (*^▽^*)
-    ja: コピー成功 (*^▽^*)
-    pt-BR: Copiado com sucesso (*^▽^*)
+    en: Copy successfully (^▽^)
+    zh-CN: 复制成功 (^▽^)
+    zh-TW: 複製成功 (^▽^)
+    ja: コピー成功 (^▽^)
+    pt-BR: Copiado com sucesso (^▽^)
   fail: 
     en: Copy failed (ﾟ⊿ﾟ)ﾂ
     zh-CN: 复制失败 (ﾟ⊿ﾟ)ﾂ
